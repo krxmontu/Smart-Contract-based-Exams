@@ -7,8 +7,6 @@
 ## Vision
 
 The "Smart Contract-based Exams" project aims to revolutionize the way exams are conducted, graded, and certified by leveraging blockchain technology. Our goal is to create a transparent, secure, and decentralized exam management system that ensures fairness and integrity in the assessment process. This system allows educators to manage exams efficiently and enables students to take exams and receive instant certification upon passing.
-‎ <br>
-
 
 
 ## Flowchart
@@ -52,6 +50,7 @@ The "Smart Contract-based Exams" project aims to revolutionize the way exams are
 |     ‎ ‎ ‎ ‎ ‎  ‎ ‎‎  Issue Certificates‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎  ‎ ‎‎|<br>
 +-----------------------------+<br>
 <br>
+
 
 ## Contract Address
 
