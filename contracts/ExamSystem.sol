@@ -6,7 +6,7 @@ contract ExamSystem {
     address public admin;
     uint public passingScore = 50;
 
-    // Structure representing an exam
+    // Representing exam
     struct Exam {
         uint examId;
         string title;
