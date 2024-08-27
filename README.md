@@ -1,5 +1,6 @@
 # Smart Contract-based Exams: Automated grading and certification via smart contracts
 ---
+![logo](https://github.com/user-attachments/assets/9b96f35d-8f46-49fe-b954-51a3b2d569f7)
 
 ## Vision
 The "Smart Contract-based Exams" project aims to revolutionize the traditional examination system by leveraging blockchain technology. The platform ensures transparency, security, and automation in grading and certification, providing an immutable record of student achievements. This innovative approach eliminates manual grading errors and promotes fairness, making examinations accessible and reliable.
@@ -56,6 +57,7 @@ For any queries or support, please contact:
 
 Montu Kumar  
 Email: krxmontu@gmail.com  
+Twitter: https://x.com/krxmontu
 LinkedIn: https://www.linkedin.com/in/krxmontu/
 
 ---
