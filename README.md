@@ -12,42 +12,42 @@ The "Smart Contract-based Exams" project aims to revolutionize the way exams are
 ## Flowchart
 
 +------------------+<br>
-|   Admin (Owner)   |<br>
+|   Admin (Owner)‎ ‎ ‎ |<br>
 +------------------+<br>
-‎         |<br>
-‎         v<br>
+‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |<br>
+‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ v<br>
 +------------------+          +----------------+<br>
-|  Approve Teacher |<---------|   ExamSystem     |<br>
+|  Approve Teacher‎‎ |<---------|   ExamSystem‎ ‎ ‎ ‎ ‎ |<br>
 +------------------+          +----------------+<br>
-‎         |<br>
-‎         v<br>
+‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |<br>
+‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ v<br>
 +-----------------------------+<br>
-|        Teachers              |<br>
+|        Teachers‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |<br>
 +-----------------------------+<br>
-‎         |<br>
-‎         v<br>
+‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |<br>
+‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ v<br>
 +-----------------------------+<br>
-|    Create/Manage Exams       |<br>
+|    Create/Manage Exams‎ ‎ ‎ ‎ ‎ ‎ ‎ |<br>
 +-----------------------------+<br>
-‎         |<br>
-‎         v<br>
+‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |<br>
+‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ v<br>
 +-----------------------------+<br>
-|          Exams               |<br>
+|          Exams‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |<br>
 +-----------------------------+<br>
-‎         |<br>
-‎         v<br>
+‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |<br>
+‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ v<br>
 +-----------------------------+<br>
-|       Students               |<br>
+|       Students‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |<br>
 +-----------------------------+<br>
-‎         |<br>
-‎         v<br>
+‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |<br>
+‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ v<br>
 +-----------------------------+<br>
-|     Take Exams & View Score  |<br>
+|     Take Exams & View Score‎ ‎ |<br>
 +-----------------------------+<br>
-‎         |<br>
-‎         v<br>
+‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |<br>
+‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ v<br>
 +-----------------------------+<br>
-|      Issue Certificates      |<br>
+|      Issue Certificates‎ ‎ ‎ ‎ ‎ ‎ |<br>
 +-----------------------------+<br>
 
 
