@@ -12,7 +12,7 @@ contract ExamSystem {
         string title;
         string[] questions;
         bytes32[] correctAnswerHashes;
-        uint timeLimit; // in seconds
+        uint timeLimit; 
         bool isActive;
     }
 
