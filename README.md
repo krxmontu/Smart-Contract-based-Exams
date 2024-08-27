@@ -1,63 +1,89 @@
 # Smart Contract-based Exams: Automated grading and certification via smart contracts
+
 ---
-![logo](https://github.com/user-attachments/assets/9b96f35d-8f46-49fe-b954-51a3b2d569f7)
+![logo](https://github.com/user-attachments/assets/d8090f6d-90be-42cc-af95-df8b6c62afc2)
+
 
 ## Vision
-The "Smart Contract-based Exams" project aims to revolutionize the traditional examination system by leveraging blockchain technology. The platform ensures transparency, security, and automation in grading and certification, providing an immutable record of student achievements. This innovative approach eliminates manual grading errors and promotes fairness, making examinations accessible and reliable.
 
-## Project Flowchart
-+--------------------+
-|   Admin Creates    |
-|   Exam Questions   |
-+--------------------+
-          |
-          v
-+--------------------+
-|    Students Take   |
-|    Exams by        |
-|    Submitting      |
-|    Answers         |
-+--------------------+
-          |
-          v
-+--------------------+
-|   Smart Contract   |
-|   Automatically    |
-|   Grades Answers   |
-|   and Updates      |
-|   Scores           |
-+--------------------+
-          |
-          v
-+--------------------+
-|   Students View    |
-|   Their Scores     |
-+--------------------+
+The "Smart Contract-based Exams" project aims to revolutionize the way exams are conducted, graded, and certified by leveraging blockchain technology. Our goal is to create a transparent, secure, and decentralized exam management system that ensures fairness and integrity in the assessment process. This system allows educators to manage exams efficiently and enables students to take exams and receive instant certification upon passing.
+
+
+## Flowchart
+
++------------------+
+|   Admin (Owner)  |
++------------------+
+         |
+         v
++------------------+          +----------------+
+|  Approve Teacher |<---------|   ExamSystem    |
++------------------+          +----------------+
+         |
+         v
++-----------------------------+
+|        Teachers             |
++-----------------------------+
+         |
+         v
++-----------------------------+
+|    Create/Manage Exams      |
++-----------------------------+
+         |
+         v
++-----------------------------+
+|          Exams              |
++-----------------------------+
+         |
+         v
++-----------------------------+
+|       Students              |
++-----------------------------+
+         |
+         v
++-----------------------------+
+|     Take Exams & View Score |
++-----------------------------+
+         |
+         v
++-----------------------------+
+|      Issue Certificates     |
++-----------------------------+
+
 
 ## Contract Address
-The smart contract is deployed on the Ethereum blockchain at the following address:
-0xb1aF72E16C52C62f0d71B08996c45926D4Aa5648
+
+The smart contract is deployed on the Ethereum blockchain at the following address.
+**Contract Address**: 0x6bD930ebe247A0bc617032f5F03316087309361d
+
 
 ## Features
-- **Automated Grading**: Automatically grades students' answers based on the correct answers stored securely on the blockchain.
-- **Immutable Records**: Grades and exam records are stored on the blockchain, ensuring tamper-proof and permanent records.
-- **Transparency**: Both students and administrators can verify grades and exam processes, ensuring trust in the system.
-- **Decentralized Certification**: Certificates or grades can be issued in a decentralized manner without relying on a central authority.
+
+- **Admin**: The admin is responsible for approving teachers and setting the passing score for exams.
+- **Teachers**: Approved teachers can create and manage exams, including setting questions, correct answers, and time limits.
+- **Students**: Students can take exams, receive scores, and get certificates if they pass.
+- **Certification**: Automatically issue certificates to students who achieve a passing score.
+
 
 ## Future Scope
-- **Advanced Question Types**: Introduce support for multiple-choice, true/false, and short-answer questions.
-- **Certification Issuance**: Develop a feature to automatically issue blockchain-based certificates to students who pass the exams.
-- **Scalability**: Expand the platform to support multiple subjects and a larger number of students.
-- **AI Integration**: Utilize AI algorithms for generating personalized exams and providing detailed feedback based on student performance.
-- **Multichain Compatibility**: Extend compatibility to other blockchain networks like Binance Smart Chain or Polygon for lower transaction costs and faster processing.
+
+1. **Multi-Chain Deployment**: Expanding the contract to support multiple blockchain networks, allowing for broader accessibility.
+2. **Decentralized Identity Verification**: Integrating decentralized identity verification for students to enhance security and prevent cheating.
+3. **Exam Analytics**: Adding analytical tools for teachers to analyze student performance and improve future exams.
+4. **NFT Certificates**: Issuing certificates as NFTs that can be traded or showcased by students.
+5. **Gamification**: Introducing elements like leaderboards and badges to encourage student engagement and performance.
 
 
-## Contact Details
-For any queries or support, please contact:
+## Contact
 
-Montu Kumar  
-Email: krxmontu@gmail.com  
-Twitter: https://x.com/krxmontu
-LinkedIn: https://www.linkedin.com/in/krxmontu/
+For more information or to contribute to the project, please reach out to us:
+
+- **Name**: Montu Kumar
+- **Email**: krxmontu@gmail.com
+- **GitHub**: https://github.com/krxmontu
+- **LinkedIn**: https://www.linkedin.com/in/krxmontu/
+- **Twitter**: https://x.com/krxmontu
+
+We look forward to collaborating with you on improving education through blockchain technology!
 
 ---
