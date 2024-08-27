@@ -45,7 +45,7 @@ The "Smart Contract-based Exams" project aims to revolutionize the way exams are
 |     Take Exams & View Score‎ ‎‎ ‎ ‎  |<br>
 +-----------------------------+<br>
 ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎  ‎‎ ‎‎ ‎ ‎ ‎ ‎‎  ‎   |<br>
-‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎v<br>
+‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎v<br>
 +-----------------------------+<br>
 |      Issue Certificates‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |<br>
 +-----------------------------+<br>
