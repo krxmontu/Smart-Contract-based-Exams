@@ -6,9 +6,9 @@
 
 ## Vision
 
-The "Smart Contract-based Exams" project aims to revolutionize the way exams are conducted, graded, and certified by leveraging blockchain technology. Our goal is to create a transparent, secure, and decentralized exam management system that ensures fairness and integrity in the assessment process. This system allows educators to manage exams efficiently and enables students to take exams and receive instant certification upon passing.
+The "Smart Contract-based Exams" project aims to revolutionize the way exams are conducted, graded, and certified by leveraging blockchain technology. Our goal is to create a transparent, secure, and decentralized exam management system that ensures fairness and integrity in the assessment process. This system allows educators to manage exams efficiently and enables students to take exams and receive instant certification upon passing.<br>
 
-<br>
+
 ## Flowchart
 
 +------------------+<br>
@@ -30,21 +30,21 @@ The "Smart Contract-based Exams" project aims to revolutionize the way exams are
 |    Create/Manage Exams‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |<br>
 +-----------------------------+<br>
 ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |<br>
-‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎‎ ‎   v<br>
+‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎‎ ‎   ‎ v<br>
 +-----------------------------+<br>
 |          Exams‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |<br>
 +-----------------------------+<br>
 ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |<br>
-‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎  v<br>
+‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ v<br>
 +-----------------------------+<br>
 |       Students‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎  ‎‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ |<br>
 +-----------------------------+<br>
-‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎  |<br>
+‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ |<br>
 ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ v<br>
 +-----------------------------+<br>
 |     Take Exams & View Score‎ ‎‎ ‎ ‎  |<br>
 +-----------------------------+<br>
-‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎  ‎‎  |<br>
+‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎  ‎‎ ‎  |<br>
 ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ ‎‎ v<br>
 +-----------------------------+<br>
 |      Issue Certificates‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ |<br>
