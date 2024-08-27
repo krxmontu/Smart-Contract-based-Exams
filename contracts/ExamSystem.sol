@@ -24,6 +24,7 @@ contract ExamSystem {
         mapping(uint => bool) examsTaken;
     }
 
+    // Structure representing a teacher
     struct Teacher {
         bool isApproved;
     }
