@@ -15,7 +15,6 @@ contract ExamSystem {
         bool isActive;
     }
 
-    // Structure representing a student
     struct Student {
         uint score;
         bool hasTakenExam;
