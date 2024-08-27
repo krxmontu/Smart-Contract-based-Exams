@@ -11,11 +11,11 @@ The "Smart Contract-based Exams" project aims to revolutionize the way exams are
 
 ## Flowchart
 
-+------------------+
-|   Admin (Owner)  |
-+------------------+
-         |
-         v
++------------------+<br>
+|   Admin (Owner)  |<br>
++------------------+<br>
+         |<br>
+         v<br>
 +------------------+          +----------------+
 |  Approve Teacher |<---------|   ExamSystem    |
 +------------------+          +----------------+
