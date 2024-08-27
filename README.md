@@ -53,7 +53,7 @@ The "Smart Contract-based Exams" project aims to revolutionize the way exams are
 
 ## Contract Address
 
-The smart contract is deployed on the Ethereum blockchain at the following address.
+The smart contract is deployed on the Ethereum blockchain at the following address.<br>
 **Contract Address**: 0x6bD930ebe247A0bc617032f5F03316087309361d
 
 
