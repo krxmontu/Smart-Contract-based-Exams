@@ -1,5 +1,4 @@
-# Smart Contract-based Exams
-## Automated grading and certification via smart contracts
+# Smart Contract-based Exams <br> Automated grading and certification via smart contracts
 
 ---
 ![logo](https://github.com/user-attachments/assets/d8090f6d-90be-42cc-af95-df8b6c62afc2)
