@@ -10,7 +10,7 @@ The "Smart Contract-based Exams" project aims to revolutionize the way exams are
 
 
 ## Flowchart
-
+```
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎+------------------+<br>
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎|  ‎ ‎  Admin (Owner)‎ ‎ |<br>
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎+------------------+<br>
@@ -50,7 +50,7 @@ The "Smart Contract-based Exams" project aims to revolutionize the way exams are
 |     ‎ ‎ ‎ ‎ ‎  ‎ ‎‎  Issue Certificates‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎  ‎ ‎‎|<br>
 +-----------------------------+<br>
 <br>
-
+```
 
 ## Contract Address
 
